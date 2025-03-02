@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>F:\Documents\UVIC\CSC 230\Assignments\Assignment1\csc230-a1-part-a\csc230-a1-part-a\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\Documents\UVIC\CSC 230\Assignments\Assignment1\csc230-a1-part-a\csc230-a1-part-a\edit-distance.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\Documents\UVIC\CSC 230\Assignments\Assignment1\csc230-a1-part-a\csc230-a1-part-a\Debug\csc230-a1-part-a.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>csc230-a1-part-a.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>csc230-a1-part-a.map</FILE>
+  <FILE>csc230-a1-part-a.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <bitLoop><FILE>F:\Documents\UVIC\CSC 230\Assignments\Assignment1\csc230-a1-part-a\csc230-a1-part-a\edit-distance.asm</FILE><LINE>64</LINE></bitLoop>
+  <skipInc><FILE>F:\Documents\UVIC\CSC 230\Assignments\Assignment1\csc230-a1-part-a\csc230-a1-part-a\edit-distance.asm</FILE><LINE>76</LINE></skipInc>
+  <edit_distance_stop><FILE>F:\Documents\UVIC\CSC 230\Assignments\Assignment1\csc230-a1-part-a\csc230-a1-part-a\edit-distance.asm</FILE><LINE>88</LINE></edit_distance_stop>
+ </LABELS>
+</ASSEMBLER_INFO>
